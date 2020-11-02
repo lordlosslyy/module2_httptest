@@ -1,0 +1,25 @@
+GET /index.html HTTP/1.1
+Host: MyHost
+
+$GET /kitten.jpg HTTP/1.1​
+Host: MyHost​
+
+$GET /UCSD_Seal.png HTTP/1.1​
+Host: MyHost​
+
+$GET /ind.html HTTP/1.1
+Host: MyHost
+
+$POST /index.html HTTP/1.1
+Host: MyHost
+
+$GET /index.html HTTP/1.0
+Host: MyHost
+
+$GET /UCSD.png HTTP/1.1​
+Host: MyHost​
+
+$GET /kitten.mp4 HTTP/1.1​
+Host: MyHost
+
+$
